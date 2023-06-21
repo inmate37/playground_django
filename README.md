@@ -1,2 +1,2 @@
-# playground_django
-Playground | Django
+# playground
+## Learning stuff via implementing and experimenting

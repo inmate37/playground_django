@@ -1,0 +1,14 @@
+#-------------------------------------------------
+#
+AutoField | IntegerField that automatically increments according to available IDs
+
+
+#-------------------------------------------------
+# max values
+#
+models.BigAutoField               | 9_223_372_036_854_775_807
+models.AutoField                  | 2_147_483_647
+                                  |
+models.PositiveBigIntegerField    | 9_223_372_036_854_775_807
+models.PositiveIntegerField       | 2_147_483_647
+models.PositiveSmallIntegerField  | 32_767
