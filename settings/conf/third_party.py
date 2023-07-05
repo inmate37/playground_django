@@ -7,7 +7,7 @@ from .env import *  # noqa: F403. pylint: disable=W0401
 
 
 #-------------------------------------------------
-# REST
+# REST-framework
 #
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
